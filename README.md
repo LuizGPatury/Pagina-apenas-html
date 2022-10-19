@@ -1,2 +1,2 @@
-# Projeto de Site usando HTML e CSS, curso ONEBITCODE :rocket:
+# Projeto de Site usando HTML curso ONEBITCODE :rocket:
 
